@@ -210,11 +210,3 @@ print("Total:", total)
 print("Percentage:", percentage)
 
 
-
-
-units = 250
-rate = 8
-
-bill = units * rate
-
-print("Electricity Bill:", bill)
